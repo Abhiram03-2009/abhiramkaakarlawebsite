@@ -5,13 +5,10 @@ import abhiramDeca from "@/assets/abhiram-deca.jpeg";
 import abhiramResearch from "@/assets/abhiram-research.jpeg";
 
 const awards = [
-  "Amazon Future Engineer Scholarship & Internship",
   "Trinity College of Cambridge — Grade 7, Ranked Distinction",
   "Congressional Award Bronze Medal",
   "USACO Gold Division",
   "DECA ICDC Qualifier",
-  "TSA Nationals Qualifier",
-  "3rd Place, Biochemistry — Delaware Valley Science Fair (DVSF)",
   "3rd Place, Biochemistry — Bucks County Science Research Competition (BCSRC)",
 ];
 
