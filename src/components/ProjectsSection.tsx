@@ -10,7 +10,7 @@ const projects = [
     highlight: true,
   },
   {
-    title: "AI Chatbot Systems",
+    title: "AI Chatbot/Agent Systems",
     desc: "Designed and deployed conversational AI systems integrating GPT-4 APIs, NLP pipelines, and custom training datasets.",
     tags: ["Python", "GPT-4", "NLP", "APIs"],
     highlight: true,
