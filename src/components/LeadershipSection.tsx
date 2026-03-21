@@ -5,7 +5,6 @@ import { Users, Bot, BookOpen, Heart } from "lucide-react";
 const roles = [
   { icon: Users, title: "Co-Founder & COO, Hive Markets", desc: "Leading operations, growth strategy, and AI product development." },
   { icon: Bot, title: "Co-President, CS Honors Society", desc: "Organizing outreach to teach coding and CS concepts to middle and high school students." },
-  { icon: Heart, title: "Co-President, BC Mentors", desc: "Local tutoring nonprofit supporting community students in STEM and academics." },
   { icon: BookOpen, title: "Academic & Writing Tutor", desc: "Kumon tutor and writing center tutor supporting multilingual and Hispanic students." },
   { icon: Heart, title: "Community Volunteer", desc: "Extensive volunteering with younger students and senior citizens in the community (200 hours)." },
 ];
