@@ -7,7 +7,7 @@ const activities = [
   "Hive Markets Co-Founder & COO — AI product development",
   "Penn State robotics & ML researcher — publication",
   "Open-source development with startups",
-  "CS Honors Society & leadership",
+  "CS Honors Society leadership",
   "Selective research programs",
   "Tutoring leadership — Kumon, writing center, BC Mentors",
 ];
