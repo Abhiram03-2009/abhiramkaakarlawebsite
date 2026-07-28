@@ -9,7 +9,7 @@ const awards = [
   "Congressional Award Bronze Medal",
   "USACO Gold Division",
   "DECA ICDC Qualifier",
-  "3rd Place, Biochemistry — Bucks County Science Research Competition (BCSRC)",
+  "1st Place & Bronze Medalist, Biochemistry — Delaware Valley Science Fair (DVSF) & ISEF Qualifier",
 ];
 
 const AwardsSection = () => (
